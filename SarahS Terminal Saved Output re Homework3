@@ -1,0 +1,41 @@
+Last login: Wed May  8 14:19:02 on console
+(base) Sarahs-MacBook-Air-3:~ sarahstonbely$ cd Documents/Rutgers\ DataViz\ course/
+(base) Sarahs-MacBook-Air-3:Rutgers DataViz course sarahstonbely$ ls
+Class 4-18-19 - VBA
+Class 4-20-19 - VBA
+Class 4-23-19 - VBA
+Class 4-26-19 - VBA
+Class 4-28-19 - VBA
+Class 4-30-19
+Class 4-30-19 - Python
+Data to analyze
+GitHub
+Homework 1
+Homework 2
+May2Class
+May7class
+Python
+Questions for tutor on 5-7-19.docx
+RUTJC201904DATA3-master
+Resources.docx
+Session Syllabus _ Bootcamp Spot April-October2019.pdf
+admin
+old-misc
+other cool visualizations etc
+python-challenge
+(base) Sarahs-MacBook-Air-3:Rutgers DataViz course sarahstonbely$ cd RUTJC201904DATA3-master/
+(base) Sarahs-MacBook-Air-3:RUTJC201904DATA3-master sarahstonbely$ ls
+hw		in-class	lectures
+(base) Sarahs-MacBook-Air-3:RUTJC201904DATA3-master sarahstonbely$ cd in-class
+(base) Sarahs-MacBook-Air-3:in-class sarahstonbely$ cd may02/02-Ins_SimpleLoops/
+(base) Sarahs-MacBook-Air-3:02-Ins_SimpleLoops sarahstonbely$ cd ..
+(base) Sarahs-MacBook-Air-3:may02 sarahstonbely$ cd 03-Stu_KidInCandyStore/
+(base) Sarahs-MacBook-Air-3:03-Stu_KidInCandyStore sarahstonbely$ python kid_in_candy_store.py
+python: can't open file 'kid_in_candy_store.py': [Errno 2] No such file or directory
+(base) Sarahs-MacBook-Air-3:03-Stu_KidInCandyStore sarahstonbely$ cd Unsolved/
+(base) Sarahs-MacBook-Air-3:Unsolved sarahstonbely$ python kid_in_candy_store.py
+  File "kid_in_candy_store.py", line 14
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+(base) Sarahs-MacBook-Air-3:Unsolved sarahstonbely$ 
